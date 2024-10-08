@@ -6762,35 +6762,35 @@
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{warning.500}"
+                                "$value": "{theme.dark.warning.500}"
                             },
                             "success": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{success.500}"
+                                "$value": "{theme.dark.success.500}"
                             },
                             "info": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{info.500}"
+                                "$value": "{theme.dark.info.500}"
                             },
                             "danger": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{danger.500}"
+                                "$value": "theme.dark.{danger.500}"
                             },
                             "action": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{primary.500}"
+                                "$value": "{theme.dark.primary.500}"
                             }
                         },
                         "contrast": {
@@ -6820,35 +6820,35 @@
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{warning.600}"
+                                "$value": "{theme.dark.warning.600}"
                             },
                             "success": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{success.600}"
+                                "$value": "{theme.dark.success.600}"
                             },
                             "info": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{info.600}"
+                                "$value": "theme.dark.{info.600}"
                             },
                             "danger": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{danger.600}"
+                                "$value": "{theme.dark.danger.600}"
                             },
                             "action": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{primary.600}"
+                                "$value": "{theme.dark.primary.600}"
                             }
                         }
                     },
