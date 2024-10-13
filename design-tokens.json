@@ -19960,35 +19960,35 @@
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{primary.600}"
+                                "$value": "{theme.light.primary.600}"
                             },
                             "info": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{info.600}"
+                                "$value": "{theme.light.info.600}"
                             },
                             "success": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{success.600}"
+                                "$value": "{theme.light.success.600}"
                             },
                             "warning": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{warning.600}"
+                                "$value": "{theme.light.warning.600}"
                             },
                             "danger": {
                                 "$type": "color",
                                 "scopes": [
                                     "ALL_SCOPES"
                                 ],
-                                "$value": "{danger.600}"
+                                "$value": "{theme.light.danger.600}"
                             }
                         }
                     },
