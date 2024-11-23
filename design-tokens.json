@@ -7,45 +7,39 @@
             "primary": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.100}"
+                    "$value": "{theme.light.primary.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.200}"
+                    "$value": "{theme.light.primary.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.300}"
+                    "$value": "{theme.light.primary.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.400}"
+                    "$value": "{theme.light.primary.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.500}"
+                    "$value": "{theme.light.primary.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.primary.600}"
+                    "$value": "{theme.light.primary.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "fill": {
@@ -349,177 +343,153 @@
             "info": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.100}"
+                    "$value": "{theme.light.info.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.200}"
+                    "$value": "{theme.light.info.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.300}"
+                    "$value": "{theme.light.info.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.400}"
+                    "$value": "{theme.light.info.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.500}"
+                    "$value": "{theme.light.info.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.teal.600}"
+                    "$value": "{theme.light.info.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "success": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.100}"
+                    "$value": "{theme.light.success.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.200}"
+                    "$value": "{theme.light.success.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.300}"
+                    "$value": "{theme.light.success.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.400}"
+                    "$value": "{theme.light.success.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.500}"
+                    "$value": "{theme.light.success.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.green.600}"
+                    "$value": "{theme.light.success.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "warning": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.100}"
+                    "$value": "{theme.light.warning.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.200}"
+                    "$value": "{theme.light.warning.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.300}"
+                    "$value": "{theme.light.warning.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.400}"
+                    "$value": "{theme.light.warning.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.500}"
+                    "$value": "{theme.light.warning.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.amber.600}"
+                    "$value": "{theme.light.warning.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "danger": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.100}"
+                    "$value": "{theme.light.danger.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.200}"
+                    "$value": "{theme.light.danger.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.300}"
+                    "$value": "{theme.light.danger.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.400}"
+                    "$value": "{theme.light.danger.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.500}"
+                    "$value": "{theme.light.danger.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.light.accent.red.600}"
+                    "$value": "{theme.light.danger.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "alt": {
@@ -1179,50 +1149,44 @@
         "collection": "Appearance",
         "mode": "Dark",
         "tokens": {
-            "primary": {
-                "100": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.100}"
-                },
-                "200": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.200}"
-                },
-                "300": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.300}"
-                },
-                "400": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.400}"
-                },
-                "500": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.500}"
-                },
-                "600": {
-                    "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.primary.600}"
-                }
+          "primary": {
+            "100": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.100}",
+              "scopes": [],
+              "description": "Subtle semitransparent accent"
             },
+            "200": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.200}",
+              "scopes": [],
+              "description": "Light semitransparent accent"
+            },
+            "300": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.300}",
+              "scopes": [],
+              "description": "Non textual elements"
+            },
+            "400": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.400}",
+              "scopes": [],
+              "description": "Base background color"
+            },
+            "500": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.500}",
+              "scopes": [],
+              "description": "Text on light surface"
+            },
+            "600": {
+              "$type": "color",
+              "$value": "{theme.dark.primary.600}",
+              "scopes": [],
+              "description": "Text on dark surface"
+            }
+          },
             "fill": {
                 "base": {
                     "100": {
@@ -1524,177 +1488,153 @@
             "info": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.100}"
+                    "$value": "{theme.dark.info.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.200}"
+                    "$value": "{theme.dark.info.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.300}"
+                    "$value": "{theme.dark.info.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.400}"
+                    "$value": "{theme.dark.info.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.500}"
+                    "$value": "{theme.dark.info.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.teal.600}"
+                    "$value": "{theme.dark.info.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "success": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.100}"
+                    "$value": "{theme.dark.success.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.200}"
+                    "$value": "{theme.dark.success.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.300}"
+                    "$value": "{theme.dark.success.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.400}"
+                    "$value": "{theme.dark.success.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.500}"
+                    "$value": "{theme.dark.success.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.green.600}"
+                    "$value": "{theme.dark.success.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "warning": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.100}"
+                    "$value": "{theme.dark.warning.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.200}"
+                    "$value": "{theme.dark.warning.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.300}"
+                    "$value": "{theme.dark.warning.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.400}"
+                    "$value": "{theme.dark.warning.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.500}"
+                    "$value": "{theme.dark.warning.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.amber.600}"
+                    "$value": "{theme.dark.warning.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "danger": {
                 "100": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.100}"
+                    "$value": "{theme.dark.danger.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
                 },
                 "200": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.200}"
+                    "$value": "{theme.dark.danger.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
                 },
                 "300": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.300}"
+                    "$value": "{theme.dark.danger.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
                 },
                 "400": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.400}"
+                    "$value": "{theme.dark.danger.400}",
+                    "scopes": [],
+                    "description": "Base background color"
                 },
                 "500": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.500}"
+                    "$value": "{theme.dark.danger.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
                 },
                 "600": {
                     "$type": "color",
-                    "scopes": [
-                        "ALL_SCOPES"
-                    ],
-                    "$value": "{theme.dark.accent.red.600}"
+                    "$value": "{theme.dark.danger.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
                 }
             },
             "alt": {
