@@ -1149,44 +1149,44 @@
         "collection": "Appearance",
         "mode": "Dark",
         "tokens": {
-          "primary": {
-            "100": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.100}",
-              "scopes": [],
-              "description": "Subtle semitransparent accent"
+            "primary": {
+                "100": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.100}",
+                    "scopes": [],
+                    "description": "Subtle semitransparent accent"
+                },
+                "200": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.200}",
+                    "scopes": [],
+                    "description": "Light semitransparent accent"
+                },
+                "300": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.300}",
+                    "scopes": [],
+                    "description": "Non textual elements"
+                },
+                "400": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.400}",
+                    "scopes": [],
+                    "description": "Base background color"
+                },
+                "500": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.500}",
+                    "scopes": [],
+                    "description": "Text on light surface"
+                },
+                "600": {
+                    "$type": "color",
+                    "$value": "{theme.dark.primary.600}",
+                    "scopes": [],
+                    "description": "Text on dark surface"
+                }
             },
-            "200": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.200}",
-              "scopes": [],
-              "description": "Light semitransparent accent"
-            },
-            "300": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.300}",
-              "scopes": [],
-              "description": "Non textual elements"
-            },
-            "400": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.400}",
-              "scopes": [],
-              "description": "Base background color"
-            },
-            "500": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.500}",
-              "scopes": [],
-              "description": "Text on light surface"
-            },
-            "600": {
-              "$type": "color",
-              "$value": "{theme.dark.primary.600}",
-              "scopes": [],
-              "description": "Text on dark surface"
-            }
-          },
             "fill": {
                 "base": {
                     "100": {
@@ -23980,6 +23980,72 @@
                             }
                         }
                     }
+                }
+            }
+        }
+    },
+    {
+        "type": "variables",
+        "collection": "Border",
+        "mode": "High DPI",
+        "tokens": {
+            "border-width": {
+                "base": {
+                    "$type": "number",
+                    "$value": "0.5",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
+                },
+                "md": {
+                    "$type": "number",
+                    "$value": "1",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
+                },
+                "lg": {
+                    "$type": "number",
+                    "$value": "2",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
+                }
+            }
+        }
+    },
+    {
+        "type": "variables",
+        "collection": "Border",
+        "mode": "Low DPI",
+        "tokens": {
+            "border-width": {
+                "base": {
+                    "$type": "number",
+                    "$value": "1",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
+                },
+                "md": {
+                    "$type": "number",
+                    "$value": "2",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
+                },
+                "lg": {
+                    "$type": "number",
+                    "$value": "2",
+                    "scopes": [
+                        "ALL_SCOPES"
+                    ],
+                    "description": ""
                 }
             }
         }
